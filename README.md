@@ -30,7 +30,7 @@
 <a href="https://www.instagram.com/anu_deep_cr7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
 <a href="https://discord.com/users/therizzard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /></a>
 <a href="https://stackoverflow.com/users/16038633/anudeep" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="40" height="40" /></a>
-<a href="https://twitter.com/CR7fan06075556" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a>
+<a href="https://twitter.com/Anudeep1856980" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a>
 
 </div>
 <br>
